@@ -237,16 +237,8 @@ streamlit run app/streamlit_app.py --server.port 8502
 - API anahtarlarını doğru formatta girdiğinizden emin olun
 - API anahtarlarını girmezseniz template yanıtlar kullanılır
 
-## 📝 Lisans
-
-Bu proje eğitim amaçlı geliştirilmiştir.
-
 ## 👨‍💻 Geliştirici
 
-- **Öğrenci**: [Adınız]
-- **Ders**: [Ders Adı]
-- **Tarih**: [Tarih]
-
-## 📞 İletişim
+- **Öğrenci**: Asuman BAS
 
 Sorularınız için: [E-posta adresiniz] 
