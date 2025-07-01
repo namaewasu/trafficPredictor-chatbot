@@ -240,5 +240,3 @@ streamlit run app/streamlit_app.py --server.port 8502
 ## 👨‍💻 Geliştirici
 
 - **Öğrenci**: Asuman BAS
-
-Sorularınız için: [E-posta adresiniz] 
