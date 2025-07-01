@@ -1,0 +1,385 @@
+import streamlit as st
+import sys
+import os
+import pandas as pd
+import json
+from datetime import datetime
+import plotly.express as px
+import plotly.graph_objects as go
+
+# Models dizinini path'e ekle
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'models'))
+
+from chatbot_gpt import GPTTrafficChatbot
+from chatbot_gemini import GeminiTrafficChatbot
+from model_comparison import ModelComparison
+
+# Sayfa konfigürasyonu
+st.set_page_config(
+    page_title="🚗 Akıllı Trafik Asistanı", 
+    page_icon="🚗",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
+
+# Custom CSS
+st.markdown("""
+<style>
+    .main-header {
+        background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+        padding: 2rem;
+        border-radius: 10px;
+        color: white;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+    
+    .chat-message {
+        padding: 1rem;
+        border-radius: 10px;
+        margin: 0.5rem 0;
+        border-left: 4px solid #667eea;
+    }
+    
+    .user-message {
+        background-color: #f0f2f6;
+        border-left-color: #667eea;
+    }
+    
+    .bot-message {
+        background-color: #e8f4fd;
+        border-left-color: #1f77b4;
+    }
+    
+    .metric-card {
+        background: linear-gradient(45deg, #667eea, #764ba2);
+        padding: 1rem;
+        border-radius: 10px;
+        color: white;
+        text-align: center;
+        margin: 0.5rem;
+    }
+    
+    .sidebar-info {
+        background-color: #f8f9fa;
+        padding: 1rem;
+        border-radius: 8px;
+        border: 1px solid #dee2e6;
+    }
+</style>
+""", unsafe_allow_html=True)
+
+def initialize_session_state():
+    """Session state değişkenlerini başlat"""
+    if 'chat_history' not in st.session_state:
+        st.session_state.chat_history = []
+    
+    if 'gpt_bot' not in st.session_state:
+        st.session_state.gpt_bot = None
+    
+    if 'gemini_bot' not in st.session_state:
+        st.session_state.gemini_bot = None
+    
+    if 'selected_model' not in st.session_state:
+        st.session_state.selected_model = 'GPT'
+    
+    if 'models_loaded' not in st.session_state:
+        st.session_state.models_loaded = False
+
+def load_models():
+    """Modelleri yükle"""
+    if st.session_state.models_loaded:
+        return True
+    
+    try:
+        # Data path
+        data_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'traffic_chatbot_dataset.csv')
+        
+        # GPT Model
+        st.session_state.gpt_bot = GPTTrafficChatbot()
+        gpt_success = st.session_state.gpt_bot.load_data(data_path)
+        
+        if gpt_success:
+            st.session_state.gpt_bot.train_intent_classifier()
+        
+        # Gemini Model
+        st.session_state.gemini_bot = GeminiTrafficChatbot()
+        gemini_success = st.session_state.gemini_bot.load_data(data_path)
+        
+        if gemini_success:
+            st.session_state.gemini_bot.train_intent_classifier()
+        
+        st.session_state.models_loaded = True
+        return True
+        
+    except Exception as e:
+        st.error(f"Model yükleme hatası: {e}")
+        return False
+
+def display_chat_message(message, is_user=True):
+    """Chat mesajını göster"""
+    if is_user:
+        st.markdown(f"""
+        <div class="chat-message user-message">
+            <strong>👤 Sen:</strong> {message}
+        </div>
+        """, unsafe_allow_html=True)
+    else:
+        st.markdown(f"""
+        <div class="chat-message bot-message">
+            <strong>🤖 Asistan:</strong> {message}
+        </div>
+        """, unsafe_allow_html=True)
+
+def main():
+    """Ana uygulama"""
+    
+    # Header
+    st.markdown("""
+    <div class="main-header">
+        <h1>🚗 Akıllı Trafik Asistanı</h1>
+        <p>İstanbul trafik durumu ve yol tarifleri için AI destekli chatbot</p>
+    </div>
+    """, unsafe_allow_html=True)
+    
+    # Session state başlatma
+    initialize_session_state()
+    
+    # Sidebar
+    with st.sidebar:
+        st.markdown("## ⚙️ Ayarlar")
+        
+        # Model seçimi
+        selected_model = st.selectbox(
+            "🤖 Model Seçin",
+            ["GPT", "Gemini"],
+            index=0 if st.session_state.selected_model == 'GPT' else 1
+        )
+        st.session_state.selected_model = selected_model
+        
+        # API Key girişi (isteğe bağlı)
+        st.markdown("### 🔑 API Anahtarları (Opsiyonel)")
+        st.markdown("""
+        <div class="sidebar-info">
+        <small>API anahtarları girerseniz daha gelişmiş yanıtlar alabilirsiniz. 
+        Girmezseniz temel template yanıtlar verilir.</small>
+        </div>
+        """, unsafe_allow_html=True)
+        
+        gpt_api_key = st.text_input(
+            "OpenAI API Key", 
+            type="password",
+            help="OpenAI API anahtarınızı girin"
+        )
+        
+        gemini_api_key = st.text_input(
+            "Google Gemini API Key", 
+            type="password",
+            help="Google Gemini API anahtarınızı girin"
+        )
+        
+        # Model yükleme
+        if st.button("🔄 Modelleri Yükle", type="primary"):
+            with st.spinner("Modeller yükleniyor..."):
+                if load_models():
+                    # API anahtarlarını ayarla
+                    if gpt_api_key and st.session_state.gpt_bot:
+                        st.session_state.gpt_bot.api_key = gpt_api_key
+                    
+                    if gemini_api_key and st.session_state.gemini_bot:
+                        st.session_state.gemini_bot.api_key = gemini_api_key
+                    
+                    st.success("✅ Modeller başarıyla yüklendi!")
+                else:
+                    st.error("❌ Model yükleme başarısız!")
+        
+        # Model durumu
+        st.markdown("### 📊 Model Durumu")
+        if st.session_state.models_loaded:
+            st.success("✅ Modeller hazır")
+            if st.session_state.gpt_bot and hasattr(st.session_state.gpt_bot, 'accuracy'):
+                st.metric("GPT Accuracy", f"{st.session_state.gpt_bot.accuracy:.3f}")
+            if st.session_state.gemini_bot and hasattr(st.session_state.gemini_bot, 'accuracy'):
+                st.metric("Gemini Accuracy", f"{st.session_state.gemini_bot.accuracy:.3f}")
+        else:
+            st.warning("⚠️ Modeller henüz yüklenmedi")
+        
+        # Chat geçmişini temizle
+        if st.button("🗑️ Chat Geçmişini Temizle"):
+            st.session_state.chat_history = []
+            st.rerun()
+        
+        # Örnek sorular
+        st.markdown("### 💡 Örnek Sorular")
+        example_questions = [
+            "Merhaba",
+            "Yarın sabah trafik nasıl?",
+            "Beşiktaş'tan Kadıköy'e nasıl giderim?",
+            "Alternatif yol var mı?",
+            "E5 üzerinde şu an durum nasıl?",
+            "Ne zaman çıkmalıyım?",
+            "Park yeri var mı?",
+            "Yağmurda trafik nasıl etkilenir?"
+        ]
+        
+        for question in example_questions:
+            if st.button(question, key=f"example_{question}"):
+                if st.session_state.models_loaded:
+                    # Seçilen modeli kullan
+                    if st.session_state.selected_model == 'GPT' and st.session_state.gpt_bot:
+                        response = st.session_state.gpt_bot.chat(question)
+                    elif st.session_state.selected_model == 'Gemini' and st.session_state.gemini_bot:
+                        response = st.session_state.gemini_bot.chat(question)
+                    else:
+                        response = {'response': 'Model hazır değil. Lütfen modelleri yükleyin.'}
+                    
+                    # Chat geçmişine ekle
+                    st.session_state.chat_history.append({
+                        'user': question,
+                        'bot': response['response'],
+                        'timestamp': datetime.now().isoformat(),
+                        'model': st.session_state.selected_model,
+                        'intent': response.get('intent', 'unknown'),
+                        'confidence': response.get('confidence', 0)
+                    })
+                    st.rerun()
+                else:
+                    st.warning("Önce modelleri yükleyin!")
+                    
+    # Ana alan - Sol ve sağ kolon
+    col1, col2 = st.columns([2, 1])
+    
+    with col1:
+        st.markdown("## 💬 Chat")
+        
+        # Chat input
+        user_input = st.chat_input("Trafik hakkında bir şey sorun...", key="chat_input")
+        
+        if user_input and st.session_state.models_loaded:
+            # Seçilen modeli kullan
+            if st.session_state.selected_model == 'GPT' and st.session_state.gpt_bot:
+                with st.spinner("GPT yanıt hazırlıyor..."):
+                    response = st.session_state.gpt_bot.chat(user_input)
+            elif st.session_state.selected_model == 'Gemini' and st.session_state.gemini_bot:
+                with st.spinner("Gemini yanıt hazırlıyor..."):
+                    response = st.session_state.gemini_bot.chat(user_input)
+            else:
+                response = {'response': 'Model hazır değil. Lütfen modelleri yükleyin.'}
+            
+            # Chat geçmişine ekle
+            st.session_state.chat_history.append({
+                'user': user_input,
+                'bot': response['response'],
+                'timestamp': datetime.now().isoformat(),
+                'model': st.session_state.selected_model,
+                'intent': response.get('intent', 'unknown'),
+                'confidence': response.get('confidence', 0)
+            })
+            
+            st.rerun()
+        
+        elif user_input and not st.session_state.models_loaded:
+            st.warning("⚠️ Önce modelleri yükleyin!")
+        
+        # Chat geçmişini göster
+        if st.session_state.chat_history:
+            st.markdown("### 📝 Sohbet Geçmişi")
+            
+            for i, chat in enumerate(reversed(st.session_state.chat_history[-10:])):  # Son 10 mesaj
+                with st.container():
+                    display_chat_message(chat['user'], is_user=True)
+                    display_chat_message(chat['bot'], is_user=False)
+                    
+                    # Detay bilgiler
+                    with st.expander(f"📊 Detaylar - {chat.get('model', 'Unknown')} Model"):
+                        col_a, col_b, col_c = st.columns(3)
+                        with col_a:
+                            st.metric("Intent", chat.get('intent', 'N/A'))
+                        with col_b:
+                            st.metric("Confidence", f"{chat.get('confidence', 0):.2f}")
+                        with col_c:
+                            st.metric("Model", chat.get('model', 'N/A'))
+                    
+                    st.markdown("---")
+        
+        else:
+            st.info("💬 Henüz bir sohbet başlamadı. Yukarıdaki input alanını kullanarak soru sorabilirsiniz!")
+    
+    with col2:
+        st.markdown("## 📊 İstatistikler")
+        
+        if st.session_state.chat_history:
+            # Intent dağılımı
+            intents = [chat.get('intent', 'unknown') for chat in st.session_state.chat_history]
+            intent_counts = pd.Series(intents).value_counts()
+            
+            fig = px.pie(
+                values=intent_counts.values, 
+                names=intent_counts.index,
+                title="Intent Dağılımı"
+            )
+            st.plotly_chart(fig, use_container_width=True)
+            
+            # Model kullanımı
+            models = [chat.get('model', 'unknown') for chat in st.session_state.chat_history]
+            model_counts = pd.Series(models).value_counts()
+            
+            fig2 = px.bar(
+                x=model_counts.index,
+                y=model_counts.values,
+                title="Model Kullanımı"
+            )
+            st.plotly_chart(fig2, use_container_width=True)
+            
+            # Confidence skorları
+            confidences = [chat.get('confidence', 0) for chat in st.session_state.chat_history]
+            
+            fig3 = px.histogram(
+                confidences,
+                title="Confidence Score Dağılımı",
+                nbins=10
+            )
+            st.plotly_chart(fig3, use_container_width=True)
+            
+        else:
+            st.info("📊 Sohbet başladığında istatistikler burada görünecek")
+        
+        # Model karşılaştırma bölümü
+        st.markdown("## ⚖️ Model Karşılaştırması")
+        
+        if st.button("🚀 Model Performans Testi Çalıştır", type="secondary"):
+            if st.session_state.models_loaded:
+                with st.spinner("Model karşılaştırması yapılıyor..."):
+                    try:
+                        comparison = ModelComparison()
+                        comparison.gpt_bot = st.session_state.gpt_bot
+                        comparison.gemini_bot = st.session_state.gemini_bot
+                        
+                        # Test verilerini hazırla
+                        test_results = comparison.run_performance_test()
+                        report, metrics = comparison.create_comparison_report()
+                        
+                        # Sonuçları göster
+                        st.success("✅ Test tamamlandı!")
+                        
+                        # Metrikler
+                        col_x, col_y = st.columns(2)
+                        with col_x:
+                            st.metric("GPT Accuracy", f"{metrics['model_accuracy']['GPT']:.3f}")
+                            st.metric("GPT Avg Time", f"{metrics['response_time']['GPT_avg']:.3f}s")
+                        
+                        with col_y:
+                            st.metric("Gemini Accuracy", f"{metrics['model_accuracy']['Gemini']:.3f}")
+                            st.metric("Gemini Avg Time", f"{metrics['response_time']['Gemini_avg']:.3f}s")
+                        
+                        # Kazanan
+                        winner = "GPT" if metrics['model_accuracy']['GPT'] > metrics['model_accuracy']['Gemini'] else "Gemini"
+                        st.success(f"🏆 Accuracy Kazananı: {winner}")
+                        
+                    except Exception as e:
+                        st.error(f"Test hatası: {e}")
+            else:
+                st.warning("Önce modelleri yükleyin!")
+
+if __name__ == "__main__":
+    main() 

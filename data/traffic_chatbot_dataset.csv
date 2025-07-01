@@ -1,0 +1,1968 @@
+intent,text,response_template
+traffic_prediction,cuma öğle trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı ile Kadıköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim çıkışı Fatih yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu akşam durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,festival zamanı,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,pazartesi günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+weather_traffic,dolu yağışı,Hava durumunun trafik etkisini analiz edebilirim.
+route_inquiry,Fatih çıkışı Kartal yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköy Üsküdar güzergahı,Size en uygun rotayı hesaplayabilirim.
+alternative_route,trafik olmayan yol,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Maltepe ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Bakırköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdarden Bostancıye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba günü öğle trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Leventden Eminönüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş çıkışı Maslak yolu,Size en uygun rotayı hesaplayabilirim.
+travel_time,yürüyerek kaç dakika,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Mecidiyeköy çıkışı Bakırköy yolu,Size en uygun rotayı hesaplayabilirim.
+travel_time,Anadolu yakasından Avrupa yakasına kaç dakika,Süre hesaplaması için rotanızı belirtir misiniz?
+greeting,günaydın,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Kartal çıkışı Levent yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü ile Fatih arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköy çıkışı Maltepe yolu,Size en uygun rotayı hesaplayabilirim.
+best_departure_time,boş saatler,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,cuma günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdar ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköy ile Fatih arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal çıkışı Kadıköy yolu,Size en uygun rotayı hesaplayabilirim.
+best_departure_time,en iyi çıkış zamanı,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,pazar akşam üstü trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköyden Beşiktaşa rota,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,cuma akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+goodbye,sonra konuşuruz,Güvenli yolculuklar dilerim!
+route_inquiry,Üsküdar Eminönü arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Avrupa yakasından Anadolu yakasına,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+goodbye,hoşça kal bot,Güvenli yolculuklar dilerim!
+traffic_prediction,hafta içi öğle trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksim Maslak arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli Eminönü arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı Beylikdüzü arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,merhaba trafik botu,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Mecidiyeköy ile Maltepe arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköyden Beşiktaşye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba öğle yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı Beşiktaş güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar ile Maslak arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_status,Kadıköy trafiği,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+route_inquiry,Levent Eminönü arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişliden Mecidiyeköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköy Kadıköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaşden Maltepeye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancı Taksim güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancı ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş Levent arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal Maslak güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy Fatih güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bosphorus köprüsü rotası,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+best_departure_time,ne zaman yola çıkmalı,En iyi çıkış zamanını hesaplayabilirim.
+route_inquiry,Bostancıden Bakırköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy çıkışı Şişli yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+help,özelliklerin neler,"Trafik tahmini, rota planlama, anlık durum kontrolü yapabilirim."
+route_inquiry,Beylikdüzü Üsküdar güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartalden Mecidiyeköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+greeting,selam canım,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+travel_time,Anadolu yakasından Avrupa yakasına kaç dakika,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Bostancı ile Levent arasında rota,Size en uygun rotayı hesaplayabilirim.
+greeting,selam nasılsın,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Levent Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar Maslak güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksimden İtüye nasıl,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,Kartalden Eminönüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_status,Levent yoğunluğu,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+greeting,iyi günler arkadaş,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Taksim Bostancı arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+travel_time,metro süresi,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Fatih ile Eminönü arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatih Maltepe arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy ile Üsküdar arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatihden Beşiktaşye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe öğle trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_status,Şişli trafiği,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+parking_info,park edebileceğim yer,Park yeri bilgisi için lokasyon belirtir misiniz?
+greeting,hello,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,pazartesi sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak ile Kadıköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköy Mecidiyeköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+fuel_info,akaryakıt istasyonu,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Şişliden Leventye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+greeting,hey merhaba,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,cumartesi günü sabah erken trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköyden Beşiktaşye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,maç günü trafik durumu,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Mecidiyeköy Taksim güzergahı,Size en uygun rotayı hesaplayabilirim.
+fuel_info,total istasyon,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+greeting,hi there,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Üsküdar çıkışı Fatih yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim Şişli güzergahı,Size en uygun rotayı hesaplayabilirim.
+greeting,merhaba bot,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Bakırköy çıkışı Fatih yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal Maslak arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazar gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba sabah erken yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı Beşiktaş güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköyden Taksimye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş ile Fatih arasında rota,Size en uygun rotayı hesaplayabilirim.
+weather_traffic,rüzgarlı hava,Hava durumunun trafik etkisini analiz edebilirim.
+traffic_status,Şişli trafiği,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+traffic_prediction,salı günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköy Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdarden Şişliye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih çıkışı Maltepe yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_status,FSM köprüsü trafiği,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+route_inquiry,Fatihden Eminönüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdarden Bostancıye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak Eminönü güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_status,E5 üzerinde durum,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+traffic_prediction,perşembe günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,hi there,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,cuma akşam üstü trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Şişli ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköyden Beylikdüzüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköy Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+goodbye,sonra konuşuruz,Güvenli yolculuklar dilerim!
+goodbye,allaha ısmarladık,Güvenli yolculuklar dilerim!
+parking_info,valet park,Park yeri bilgisi için lokasyon belirtir misiniz?
+route_inquiry,Bakırköy ile Maltepe arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepe Bakırköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepe ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş ile Fatih arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaşden Taksimye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü Taksim güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba öğle yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdar ile Mecidiyeköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksimden Bakırköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+weather_traffic,buzlanma tehlikesi,Hava durumunun trafik etkisini analiz edebilirim.
+route_inquiry,Levent Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih ile Maslak arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_status,Levent yoğunluğu,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+route_inquiry,Beylikdüzü çıkışı Üsküdar yolu,Size en uygun rotayı hesaplayabilirim.
+thanks,süpersin,Teşekkürler! Güvenli yolculuklar.
+route_inquiry,Taksim ile Bostancı arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksimden İtüye nasıl,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,Şişli Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı öğle trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+fuel_info,opet lokasyonu,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+greeting,hey trafik asistanı,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,hafta sonu sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beşiktaş Maslak arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy ile Üsküdar arasında rota,Size en uygun rotayı hesaplayabilirim.
+goodbye,dikkatli ol,Güvenli yolculuklar dilerim!
+route_inquiry,Mecidiyeköy ile Maslak arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy ile Kadıköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköyden Beylikdüzüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzü Maslak güzergahı,Size en uygun rotayı hesaplayabilirim.
+best_departure_time,en uygun çıkış,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,perşembe sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bakırköyden Taksimye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü Kartal güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bakırköy Maslak güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköyden Bakırköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu gece geç durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Eminönü çıkışı Maltepe yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş Beylikdüzü arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş ile Levent arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi gece geç durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı Taksim güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent çıkışı Üsküdar yolu,Size en uygun rotayı hesaplayabilirim.
+weather_traffic,yağmurda trafik,Hava durumunun trafik etkisini analiz edebilirim.
+traffic_prediction,cumartesi günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,yağmurlu günde trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Beşiktaş Taksim güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköyden Bostancıye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+alternative_route,başka yol önerisi,Alternatif rota seçeneklerini gösterebilirim.
+traffic_prediction,perşembe günü öğle trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba akşam üstü trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+parking_info,park yeri nerede,Park yeri bilgisi için lokasyon belirtir misiniz?
+route_inquiry,Bostancı Bakırköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü çıkışı Bakırköy yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi akşam trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak Beylikdüzü arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdarden Kartalye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe akşamı trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+greeting,günaydın,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Fatih çıkışı Maslak yolu,Size en uygun rotayı hesaplayabilirim.
+alternative_route,yan yollar,Alternatif rota seçeneklerini gösterebilirim.
+fuel_info,opet lokasyonu,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+traffic_prediction,hafta içi günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancıden Leventye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksim çıkışı Maslak yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü ile Üsküdar arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beşiktaş Levent güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_status,kennedy caddesi trafik,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+traffic_prediction,pazartesi günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi sabah erken durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak ile Mecidiyeköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Mecidiyeköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Eminönü ile Kadıköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy çıkışı Şişli yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_status,Boğaz köprüsü durumu,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+traffic_status,FSM köprüsü trafiği,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+traffic_prediction,cumartesi günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatih Kartal arası yol,Size en uygun rotayı hesaplayabilirim.
+goodbye,sonra konuşuruz,Güvenli yolculuklar dilerim!
+route_inquiry,Beylikdüzüden Bakırköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancıden Eminönüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+parking_info,ücretsiz park,Park yeri bilgisi için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi sabah erken durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+fuel_info,BP,BP benzin istasyonları hangi lokasyonlarda?
+route_inquiry,Bostancı Kadıköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Maltepe arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Bakırköy arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,konser sonrası trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,pazar sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı çıkışı Taksim yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak çıkışı Mecidiyeköy yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak Şişli güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepe Eminönü güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent ile Maltepe arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak Mecidiyeköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+help,yardım et,Size nasıl yardımcı olabilirim?
+traffic_prediction,hafta sonu gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Avrupa yakasından Anadolu yakasına,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,cumartesi sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Levent Üsküdar arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatihden Leventye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+unclear,anlamıyorum,Hangi konuda yardım istiyorsunuz?
+traffic_prediction,perşembe sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+travel_time,köprü geçiş süresi,Süre hesaplaması için rotanızı belirtir misiniz?
+help,Kullanım,"Bana doğal dilde sorular sormanız yeterli. Örnek: ""Yarın sabah trafik nasıl?"""
+traffic_prediction,hafta içi sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba akşam üstü yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+best_departure_time,optimal saat,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,pazar sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköy Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü Üsküdar arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba gece geç durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi akşam üstü yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,şehir içi rota,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,pazartesi sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+alternative_route,başka yol önerisi,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Levent ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköy çıkışı Maltepe yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepe çıkışı Kartal yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş Taksim arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+unclear,ne diyorsun,Sorunuzu daha açık belirtir misiniz?
+route_inquiry,Leventden Beşiktaşye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma öğle yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköyden Bostancıye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal çıkışı Beşiktaş yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli Üsküdar güzergahı,Size en uygun rotayı hesaplayabilirim.
+goodbye,elveda arkadaşım,Güvenli yolculuklar dilerim!
+traffic_status,Kadıköy trafiği,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+route_inquiry,Şişli çıkışı Fatih yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı akşam trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,hey dostum,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,salı akşam trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy Kadıköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Fatih güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_status,çevre yolu durumu,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+weather_traffic,fırtınada yol durumu,Hava durumunun trafik etkisini analiz edebilirim.
+travel_time,metro süresi,Süre hesaplaması için rotanızı belirtir misiniz?
+greeting,merhaba asistan,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+thanks,çok yardımcı oldun,Memnun oldum! Dikkatli sürün.
+traffic_prediction,hafta sonu sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı çıkışı Maltepe yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bakırköy Fatih arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş Kadıköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+travel_time,köprü geçiş süresi,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Bakırköy Levent arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal çıkışı Eminönü yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_status,TEM otoyolunda trafik,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+traffic_prediction,pazartesi gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatih Levent güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+goodbye,iyi yolculuklar,Güvenli yolculuklar dilerim!
+traffic_prediction,hafta içi gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kartal Şişli güzergahı,Size en uygun rotayı hesaplayabilirim.
+goodbye,elveda arkadaşım,Güvenli yolculuklar dilerim!
+traffic_prediction,pazartesi gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,selamlar,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Beşiktaş ile Üsküdar arasında rota,Size en uygun rotayı hesaplayabilirim.
+help,özelliklerin neler,"Trafik tahmini, rota planlama, anlık durum kontrolü yapabilirim."
+traffic_prediction,çarşamba sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Eminönü Üsküdar arası yol,Size en uygun rotayı hesaplayabilirim.
+unclear,garip,Sorunuzu yeniden sorabilir misiniz?
+traffic_prediction,çarşamba mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatih Beylikdüzü arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköyden Maslakye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköy Kartal güzergahı,Size en uygun rotayı hesaplayabilirim.
+fuel_info,motorin,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+traffic_prediction,salı günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Levent çıkışı Fatih yolu,Size en uygun rotayı hesaplayabilirim.
+fuel_info,shell istasyonu,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+greeting,iyi günler arkadaş,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+goodbye,güle güle,Güvenli yolculuklar dilerim!
+traffic_prediction,cumartesi akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak çıkışı Beşiktaş yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak ile Üsküdar arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköy Maltepe arası yol,Size en uygun rotayı hesaplayabilirim.
+greeting,ne haber,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Kadıköy ile Fatih arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+alternative_route,sakin yol,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Bakırköy Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+parking_info,otopark lokasyonu,Park yeri bilgisi için lokasyon belirtir misiniz?
+route_inquiry,Maslak ile Beylikdüzü arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksimden İtüye nasıl,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,salı gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak Bakırköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancıden Maslakye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksim Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatihden Leventye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Leventden Kartalye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdarden Eminönüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar Maltepe arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü Kartal güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe günü sabah trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepeden Üsküdarye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu öğle trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+fuel_info,petrol ofisi nerede,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Eminönü Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih Bakırköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+parking_info,açık park alanı,Park yeri bilgisi için lokasyon belirtir misiniz?
+route_inquiry,Bostancı Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak Beşiktaş güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim Maslak güzergahı,Size en uygun rotayı hesaplayabilirim.
+fuel_info,petrol ofisi nerede,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Eminönüden Mecidiyeköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Marmaray ile nasıl giderim,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,pazar mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba sabah erken yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi günü öğle trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_status,Mecidiyeköy durumu,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+route_inquiry,Beylikdüzü Kartal arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü Şişli güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü Taksim güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Sisli Maslak arası rota,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+greeting,günaydın bot,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Fatih ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancı Taksim arası yol,Size en uygun rotayı hesaplayabilirim.
+best_departure_time,ne zaman yola çıkmalı,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,hafta sonu sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak Şişli güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli Fatih güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar ile Bakırköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+greeting,iyi günler arkadaş,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Mecidiyeköyden Beşiktaşye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal çıkışı Eminönü yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar Beşiktaş güzergahı,Size en uygun rotayı hesaplayabilirim.
+parking_info,kapalı otopark,Park yeri bilgisi için lokasyon belirtir misiniz?
+greeting,selamün aleyküm,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Şişli çıkışı Üsküdar yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih çıkışı Maslak yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba akşam durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bakırköyden Taksimye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy Maltepe arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatihden Beşiktaşye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatih çıkışı Mecidiyeköy yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak çıkışı Beşiktaş yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksimden Şişliye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzü Beşiktaş güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bakırköy Şişli arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma sabah erken yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi öğle trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi akşam üstü yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Şişliden Bakırköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Levent çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma günü sabah trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi sabah erken yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+parking_info,otopark lokasyonu,Park yeri bilgisi için lokasyon belirtir misiniz?
+route_inquiry,Kadıköy çıkışı Levent yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent ile Şişli arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,salı akşam üstü trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksim ile Şişli arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancı çıkışı Beşiktaş yolu,Size en uygun rotayı hesaplayabilirim.
+best_departure_time,ideal zaman,En iyi çıkış zamanını hesaplayabilirim.
+route_inquiry,Bakırköy ile Mecidiyeköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih çıkışı Eminönü yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih çıkışı Taksim yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli ile Levent arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Leventden Bakırköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköy çıkışı Taksim yolu,Size en uygun rotayı hesaplayabilirim.
+goodbye,güvenli sürüş,Güvenli yolculuklar dilerim!
+traffic_prediction,cumartesi gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Eminönü Levent arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi öğle trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beşiktaş ile Şişli arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli Üsküdar güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköy Levent arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancı ile Eminönü arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepeden Beylikdüzüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+travel_time,otogar mesafesi,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Fatih Şişli arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy ile Maltepe arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal Levent güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak çıkışı Eminönü yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepeden Taksimye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+greeting,hello bot,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Bostancı Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak çıkışı Levent yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,bayram günü trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,pazartesi günü öğle trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepeden Leventye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönüden Bakırköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+goodbye,iyi günler bot,Güvenli yolculuklar dilerim!
+traffic_prediction,mesai saatlerinde yoğunluk,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Leventden Mecidiyeköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepe çıkışı Mecidiyeköy yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli Bostancı arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,şehir içi rota,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+thanks,harikasın,Teşekkürler! İyi yolculuklar.
+route_inquiry,Kartal çıkışı Mecidiyeköy yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe gece geç durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzü Eminönü arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak Maltepe arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim Kadıköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancıden Taksimye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba sabah erken yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancıden Beşiktaşye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma kaçışı,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,çarşamba akşam üstü trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu sabah erken durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+parking_info,Park mevcut,Park yeri müsaitlik durumu için hangi bölge?
+route_inquiry,Maltepe ile Bostancı arasında rota,Size en uygun rotayı hesaplayabilirim.
+greeting,selam robot,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Beylikdüzü Beşiktaş güzergahı,Size en uygun rotayı hesaplayabilirim.
+greeting,selam canım,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+greeting,selam kardeşim,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,perşembe günü sabah erken trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,festival zamanı,Trafik tahmini için tarih ve saati belirtir misiniz?
+complaint,kötü çalışıyorsun,"Özür dilerim, nasıl daha iyi olabilirim?"
+route_inquiry,Üsküdar Bakırköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköy Mecidiyeköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar ile Fatih arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepe çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar ile Kadıköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+alternative_route,hızlı alternatif,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Kadıköy Levent arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslakden Üsküdarye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,okul çıkışı saatlerinde,Trafik tahmini için tarih ve saati belirtir misiniz?
+fuel_info,total istasyon,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+greeting,hey trafik asistanı,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,pazartesi akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi sendromu trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Beşiktaşden Bostancıye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar Şişli güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak Levent güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi akşam üstü yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kartalden Fatihye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy Eminönü güzergahı,Size en uygun rotayı hesaplayabilirim.
+greeting,ne haber,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,pazar günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi günü sabah trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköyden Mecidiyeköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak çıkışı Maltepe yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzünden Şişliye nasıl giderim,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,Bostancı çıkışı Beşiktaş yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköy ile Taksim arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancı ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Beşiktaş güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepe Fatih güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+alternative_route,ekonomik yol,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Mecidiyeköy ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,okul çıkışı saatlerinde,Trafik tahmini için tarih ve saati belirtir misiniz?
+travel_time,taksi ile ne kadar,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Bosphorus köprüsü rotası,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+goodbye,iyi günler bot,Güvenli yolculuklar dilerim!
+route_inquiry,Beylikdüzü Eminönü arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+goodbye,allaha ısmarladık,Güvenli yolculuklar dilerim!
+traffic_prediction,pazartesi öğle trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Eminönü ile Maslak arasında rota,Size en uygun rotayı hesaplayabilirim.
+fuel_info,total istasyon,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+traffic_prediction,çarşamba günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköy çıkışı Bakırköy yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Levent ile Bostancı arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bakırköyden Üsküdara yol,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,hafta sonu akşam durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kartalden Leventye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak Üsküdar arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli çıkışı Mecidiyeköy yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Leventden Bostancıye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartalden Eminönüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi sabah erken yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+travel_time,Anadolu yakasından Avrupa yakasına kaç dakika,Süre hesaplaması için rotanızı belirtir misiniz?
+parking_info,otopark lokasyonu,Park yeri bilgisi için lokasyon belirtir misiniz?
+route_inquiry,Maslak Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih Bakırköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi günü öğle trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kartal ile Levent arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköy Kadıköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköyden Üsküdara yol,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+greeting,selam kardeşim,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Üsküdarden Bostancıye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepe çıkışı Şişli yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,konser sonrası trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,pazartesi gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı çıkışı Taksim yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim ile Bakırköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim Beylikdüzü arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi sabah erken yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazar mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+thanks,çok yardımcı oldun,Memnun oldum! Dikkatli sürün.
+route_inquiry,Kadıköy ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe günü öğle trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi sabah erken yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdar çıkışı Levent yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kartal Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdarden Bostancıye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+greeting,selamlar,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,salı gece geç durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatih Levent güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe günü sabah trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazar günü öğle trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Levent Taksim güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköy ile Beylikdüzü arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,ne haber,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Şişli Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköy ile Levent arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih çıkışı Bakırköy yolu,Size en uygun rotayı hesaplayabilirim.
+greeting,merhabalar,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+greeting,hey merhaba,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Kadıköyden Kartalye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+weather_traffic,sisli hava trafik,Hava durumunun trafik etkisini analiz edebilirim.
+route_inquiry,Beylikdüzüden Bostancıye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancı Kadıköy arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi sendromu trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,perşembe gece geç durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Eminönü çıkışı Bakırköy yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Eminönü Şişli arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi gece geç durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Eminönü ile Mecidiyeköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,karlı havada durum,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Bostancıden Beşiktaşye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartalden Üsküdarye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim Kadıköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_status,TEM otoyolunda trafik,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+traffic_prediction,cumartesi akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı Maslak arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslakden Bakırköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+weather_traffic,yağmurda trafik,Hava durumunun trafik etkisini analiz edebilirim.
+greeting,merhaba bot,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,salı öğle trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,hoş bulduk,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,minibüs rotası,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,Fatih çıkışı Kartal yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı günü sabah trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatih ile Şişli arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü Beşiktaş güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal çıkışı Maslak yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_status,Boğaz köprüsü durumu,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+route_inquiry,Maltepe Bostancı arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköy ile Fatih arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+weather_traffic,fırtınada yol durumu,Hava durumunun trafik etkisini analiz edebilirim.
+route_inquiry,Taksim Beylikdüzü arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi öğle trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,salı gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu günü öğle trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdar ile Şişli arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,konser sonrası trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+greeting,hey merhaba,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+help,yardım et,Size nasıl yardımcı olabilirim?
+help,nasıl çalışırsın,Trafik verilerini analiz ederim.
+traffic_prediction,çarşamba gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,hey dostum,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,pazartesi günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepeden Beylikdüzüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Eminönü ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy ile Fatih arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepe Mecidiyeköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+thanks,harikasın,Teşekkürler! İyi yolculuklar.
+route_inquiry,Taksim çıkışı Eminönü yolu,Size en uygun rotayı hesaplayabilirim.
+goodbye,görüşmek üzere,Güvenli yolculuklar dilerim!
+route_inquiry,Anadolu yakasından Avrupa yakasına,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,salı akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,hey trafik asistanı,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,hafta içi akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,salı sabah erken yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+travel_time,yürüyerek kaç dakika,Süre hesaplaması için rotanızı belirtir misiniz?
+traffic_prediction,cumartesi günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+weather_traffic,karlı havada durum,Hava durumunun trafik etkisini analiz edebilirim.
+route_inquiry,Kadıköy Üsküdar arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı akşam üstü trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+travel_time,otobüs yolculuğu,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Bostancı çıkışı Beylikdüzü yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,TEM mi E5 mi daha iyi,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,perşembe öğle yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+best_departure_time,yoğunluk olmayan zaman,En iyi çıkış zamanını hesaplayabilirim.
+greeting,merhabalar,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+greeting,merhaba trafik botu,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Şişli ile Bostancı arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+parking_info,park durumu,Park yeri bilgisi için lokasyon belirtir misiniz?
+traffic_prediction,cuma gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Eminönü çıkışı Maslak yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköyden Kartalye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi günü sabah trafik,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,hello,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,perşembe akşam üstü yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepe ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Levent çıkışı Eminönü yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli Levent arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba akşam durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Şişli çıkışı Beşiktaş yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancıden Eminönüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi akşam durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+best_departure_time,optimal saat,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,cumartesi sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzü ile Üsküdar arasında rota,Size en uygun rotayı hesaplayabilirim.
+best_departure_time,optimal saat,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,salı günü öğle trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Eminönü Üsküdar arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksim Kartal güzergahı,Size en uygun rotayı hesaplayabilirim.
+goodbye,sonra görüşürüz,Güvenli yolculuklar dilerim!
+traffic_prediction,pazartesi akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi öğle yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+fuel_info,petrol ofisi nerede,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Taksim ile Maltepe arasında rota,Size en uygun rotayı hesaplayabilirim.
+best_departure_time,hangi saatte çıkayım,En iyi çıkış zamanını hesaplayabilirim.
+traffic_status,Maslak trafiği,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+traffic_prediction,cumartesi akşam trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Eminönüden Kartalye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköyden Beşiktaşa rota,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,pazar gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,salı gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+travel_time,havalimanına süre,Süre hesaplaması için rotanızı belirtir misiniz?
+traffic_prediction,perşembe gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi öğle yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksim Levent arası yol,Size en uygun rotayı hesaplayabilirim.
+weather_traffic,aşırı sıcakta trafik,Hava durumunun trafik etkisini analiz edebilirim.
+traffic_status,Kadıköy trafiği,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+traffic_prediction,pazar gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı çıkışı Taksim yolu,Size en uygun rotayı hesaplayabilirim.
+weather_traffic,sisli hava trafik,Hava durumunun trafik etkisini analiz edebilirim.
+travel_time,köprü geçiş süresi,Süre hesaplaması için rotanızı belirtir misiniz?
+travel_time,köprü geçiş süresi,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Maslak çıkışı Kartal yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy Eminönü arası yol,Size en uygun rotayı hesaplayabilirim.
+alternative_route,farklı rota seçeneği,Alternatif rota seçeneklerini gösterebilirim.
+best_departure_time,hangi saatte çıkayım,En iyi çıkış zamanını hesaplayabilirim.
+alternative_route,dolama yolu,Alternatif rota seçeneklerini gösterebilirim.
+traffic_prediction,hafta sonu mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,salı günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,salı günü öğle trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy ile Fatih arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar Bostancı güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+parking_info,boş park yeri var mı,Park yeri bilgisi için lokasyon belirtir misiniz?
+greeting,merhabalar,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+goodbye,iyi geceler,Güvenli yolculuklar dilerim!
+traffic_prediction,hafta sonu öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Sisli Maslak arası rota,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,salı günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköy Eminönü arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beşiktaşden Şişliye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+parking_info,boş park yeri var mı,Park yeri bilgisi için lokasyon belirtir misiniz?
+route_inquiry,Maltepe çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı ile Maslak arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,karlı havada durum,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,cuma günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı akşam durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzü çıkışı Eminönü yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+greeting,selam canım,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,pazartesi öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi sendromu trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,salı gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+alternative_route,Daha rahat yol,Daha rahat ve az yoğun yolları tercih ediyorsanız alternatifleri bulabilirim.
+traffic_prediction,hafta içi günü öğle trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba akşam üstü trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+fuel_info,shell istasyonu,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Üsküdar ile Beylikdüzü arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepeden Kadıköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+parking_info,ücretli otopark,Park yeri bilgisi için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatih Bakırköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma namazı trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Beylikdüzü Mecidiyeköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköy çıkışı Fatih yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+fuel_info,benzin fiyatı,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Levent ile Maslak arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim ile Şişli arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_status,E5 üzerinde durum,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+route_inquiry,Bakırköy çıkışı Eminönü yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköy ile Mecidiyeköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzüden Mecidiyeköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma sabah erken durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,selamlar,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Eminönü Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı çıkışı Kartal yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancı ile Üsküdar arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdarden Bostancıye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim Bostancı güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bakırköy çıkışı Fatih yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Maslak arası yol,Size en uygun rotayı hesaplayabilirim.
+weather_traffic,dolu yağışı,Hava durumunun trafik etkisini analiz edebilirim.
+route_inquiry,Maslak Taksim güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak Maltepe arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent çıkışı Kartal yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Leventden Kadıköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepeden Maslakye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli ile Maslak arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslakden Maltepeye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Marmaray ile nasıl giderim,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+thanks,süpersin,Teşekkürler! Güvenli yolculuklar.
+route_inquiry,Eminönü çıkışı Beylikdüzü yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+goodbye,kendine iyi bak,Güvenli yolculuklar dilerim!
+route_inquiry,Fatih Sultan Mehmet köprüsü güzergahı,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,Bakırköy ile Levent arasında rota,Size en uygun rotayı hesaplayabilirim.
+parking_info,boş park yeri var mı,Park yeri bilgisi için lokasyon belirtir misiniz?
+route_inquiry,Şişli Üsküdar güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy Bostancı arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi sabahı durum,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Beylikdüzü Kadıköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş ile Bostancı arasında rota,Size en uygun rotayı hesaplayabilirim.
+alternative_route,yan yollar,Alternatif rota seçeneklerini gösterebilirim.
+thanks,harikasın,Teşekkürler! İyi yolculuklar.
+traffic_prediction,perşembe günü sabah trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,okullar açık mı,Trafik tahmini için tarih ve saati belirtir misiniz?
+goodbye,iyi yolculuklar,Güvenli yolculuklar dilerim!
+traffic_prediction,pazartesi akşam trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy Beşiktaş güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazar sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+best_departure_time,en iyi çıkış zamanı,En iyi çıkış zamanını hesaplayabilirim.
+route_inquiry,Üsküdar Maslak arası yol,Size en uygun rotayı hesaplayabilirim.
+unclear,ne diyorsun,Sorunuzu daha açık belirtir misiniz?
+weather_traffic,aşırı sıcakta trafik,Hava durumunun trafik etkisini analiz edebilirim.
+route_inquiry,Bakırköy çıkışı Maslak yolu,Size en uygun rotayı hesaplayabilirim.
+goodbye,hoşça kal dostum,Güvenli yolculuklar dilerim!
+best_departure_time,boş saatler,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,pazartesi öğle yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kartal Eminönü güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma kaçışı,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Maltepeden Bostancıye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazar günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdar Bakırköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma öğle yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,salı günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdarden Fatihye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,naber,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Beşiktaş çıkışı Şişli yolu,Size en uygun rotayı hesaplayabilirim.
+best_departure_time,yoğunluk olmayan zaman,En iyi çıkış zamanını hesaplayabilirim.
+greeting,günaydın bot,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Beşiktaş ile Maltepe arasında rota,Size en uygun rotayı hesaplayabilirim.
+parking_info,ücretsiz park,Park yeri bilgisi için lokasyon belirtir misiniz?
+travel_time,otobüs yolculuğu,Süre hesaplaması için rotanızı belirtir misiniz?
+parking_info,park yeri nerede,Park yeri bilgisi için lokasyon belirtir misiniz?
+route_inquiry,Bakırköy Mecidiyeköy arası yol,Size en uygun rotayı hesaplayabilirim.
+greeting,selam robot,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Beylikdüzü Mecidiyeköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy Kartal güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak Eminönü güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy çıkışı Beşiktaş yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköy Fatih arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönüden Fatihye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,hello,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Levent Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Şişli Kadıköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy ile Şişli arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartalden Fatihye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Marmaray ile nasıl giderim,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,cuma öğle trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bosphorus köprüsü rotası,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,Üsküdar Şişli güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı sabah erken durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu akşam trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+unclear,kafam karıştı,Sorunuzu netleştirebilir misiniz?
+alternative_route,ekonomik yol,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Kartalden Leventye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+alternative_route,alternatif güzergah,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Bakırköy ile Kadıköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+parking_info,valet park,Park yeri bilgisi için lokasyon belirtir misiniz?
+route_inquiry,Eminönü çıkışı Kadıköy yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi günü sabah trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe sabah erken yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+travel_time,taksi ile ne kadar,Süre hesaplaması için rotanızı belirtir misiniz?
+traffic_prediction,hafta içi gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi günü sabah trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksim ile Eminönü arasında rota,Size en uygun rotayı hesaplayabilirim.
+greeting,merhaba asistan,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Beşiktaş ile Maltepe arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_status,Maslak trafiği,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+traffic_prediction,pazar günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi sabahı durum,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Maslak ile Bakırköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Kartal güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdarden Leventye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+greeting,naber,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Kadıköyden Üsküdarye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatihden Bakırköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli çıkışı Taksim yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı sabah erken yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepe Bostancı güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu trafiği,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Üsküdar ile Kadıköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü ile Şişli arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak ile Bostancı arasında rota,Size en uygun rotayı hesaplayabilirim.
+travel_time,otogar mesafesi,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Beylikdüzü Üsküdar arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy çıkışı Kadıköy yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzü Fatih güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksimden Eminönüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Levent çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar öğle yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+help,ne yapabilirsin,"Trafik bilgileri, rota önerileri ve daha fazlası için buradayım."
+route_inquiry,Maslak ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdar Taksim güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy Bakırköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent ile Şişli arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar ile Levent arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe akşamı trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,hafta sonu öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdar ile Bakırköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal Kadıköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih çıkışı Bakırköy yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi sabah erken durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepe çıkışı Üsküdar yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_status,Beşiktaş durumu,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+route_inquiry,Maltepe Kartal güzergahı,Size en uygun rotayı hesaplayabilirim.
+weather_traffic,dolu yağışı,Hava durumunun trafik etkisini analiz edebilirim.
+traffic_prediction,pazar akşam üstü trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+fuel_info,lpg istasyonu,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Mecidiyeköy çıkışı Beşiktaş yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+travel_time,bisikletle süre,Süre hesaplaması için rotanızı belirtir misiniz?
+travel_time,şehir merkezine ne kadar,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Kartalden Şişliye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+weather_traffic,karlı havada durum,Hava durumunun trafik etkisini analiz edebilirim.
+route_inquiry,Bakırköy Kadıköy arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatihden Mecidiyeköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+parking_info,park edebileceğim yer,Park yeri bilgisi için lokasyon belirtir misiniz?
+weather_traffic,hava durumu etkisi,Hava durumunun trafik etkisini analiz edebilirim.
+route_inquiry,Levent ile Taksim arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+weather_traffic,fırtınada yol durumu,Hava durumunun trafik etkisini analiz edebilirim.
+traffic_prediction,cumartesi günü sabah trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kartal ile Maltepe arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih çıkışı Maltepe yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Leventden Kartalye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+best_departure_time,en uygun çıkış,En iyi çıkış zamanını hesaplayabilirim.
+route_inquiry,Kartal ile Fatih arasında rota,Size en uygun rotayı hesaplayabilirim.
+parking_info,park durumu,Park yeri bilgisi için lokasyon belirtir misiniz?
+traffic_prediction,pazar akşam üstü yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+fuel_info,bp benzinlik,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Beylikdüzü ile Maslak arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepeden Fatihye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+unclear,kafam karıştı,Sorunuzu netleştirebilir misiniz?
+traffic_prediction,pazar mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+complaint,işe yaramıyorsun,Size daha iyi hizmet vermeye çalışırım.
+route_inquiry,Maltepe çıkışı Beylikdüzü yolu,Size en uygun rotayı hesaplayabilirim.
+thanks,çok yardımcı oldun,Memnun oldum! Dikkatli sürün.
+route_inquiry,Kartal Eminönü arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköy ile Bakırköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartalden Maslakye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+alternative_route,kestirme yol,Alternatif rota seçeneklerini gösterebilirim.
+greeting,hey dostum,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Taksim ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksim Levent güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköy ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü Mecidiyeköy arası yol,Size en uygun rotayı hesaplayabilirim.
+goodbye,görüşmek üzere,Güvenli yolculuklar dilerim!
+route_inquiry,TEM mi E5 mi daha iyi,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,Maltepeden Bakırköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih Sultan Mehmet köprüsü güzergahı,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,cuma günü sabah erken trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bakırköy ile Mecidiyeköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+fuel_info,benzin fiyatı,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+traffic_prediction,pazartesi günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazar gece geç durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepeden Fatihye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba sabah erken durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu trafiği,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Üsküdar Fatih arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepeden Leventye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Leventden Maslakye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatih ile Levent arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepe ile Fatih arasında rota,Size en uygun rotayı hesaplayabilirim.
+travel_time,Zamanı hesapla,Zaman hesaplaması için güzergahınızı belirtir misiniz?
+goodbye,iyi akşamlar,Güvenli yolculuklar dilerim!
+alternative_route,sakin yol,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Fatih Şişli arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu öğle trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kartalden Beşiktaşye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepe ile Maslak arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu gece geç durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,hello bot,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+goodbye,iyi yolculuklar,Güvenli yolculuklar dilerim!
+route_inquiry,Maltepeden Beşiktaşye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköyden Bostancıye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+complaint,yanlış bilgi verdin,"Üzgünüm, doğru bilgiyi vermeye çalışayım."
+traffic_prediction,çarşamba akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy Taksim arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepe ile Fatih arasında rota,Size en uygun rotayı hesaplayabilirim.
+complaint,Hata,Karşılaştığınız hatayı detaylandırır mısınız?
+route_inquiry,Maslak Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü çıkışı Kartal yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beşiktaşden Fatihye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzüden Leventye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy Kadıköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy ile Beylikdüzü arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+best_departure_time,yoğunluk olmayan zaman,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,salı günü sabah erken trafik,Trafik tahmini için lokasyon belirtir misiniz?
+weather_traffic,Sisli hava,Sisli havada görüş mesafesi ve trafik durumu nasıl?
+route_inquiry,Eminönü Üsküdar güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli Eminönü güzergahı,Size en uygun rotayı hesaplayabilirim.
+alternative_route,başka yol önerisi,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Beşiktaş Kadıköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksimden Bakırköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent çıkışı Üsküdar yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzüden Mecidiyeköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+complaint,berbat,Nasıl gelişebilirim?
+route_inquiry,Beylikdüzü ile Üsküdar arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+fuel_info,shell istasyonu,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Fatihden Bostancıye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy Kartal güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_status,Levent yoğunluğu,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+route_inquiry,Mecidiyeköy çıkışı Bakırköy yolu,Size en uygun rotayı hesaplayabilirim.
+greeting,hi there,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_status,çevre yolu durumu,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+route_inquiry,Mecidiyeköyden Beylikdüzüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzüden Fatihye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe sabah erken yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bakırköy Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal ile Bostancı arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköy çıkışı Bakırköy yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+weather_traffic,rüzgarlı hava,Hava durumunun trafik etkisini analiz edebilirim.
+route_inquiry,Beylikdüzünden Şişliye nasıl giderim,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,bayram günü trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+alternative_route,alternatif güzergah,Alternatif rota seçeneklerini gösterebilirim.
+best_departure_time,trafik olmayan saat,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,hafta sonu trafiği,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,çarşamba sabah erken yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beşiktaşden Bostancıye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdarden Kartalye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazar akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,selamlar canım,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,hafta içi mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bakırköy Beylikdüzü arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü çıkışı Beylikdüzü yolu,Size en uygun rotayı hesaplayabilirim.
+alternative_route,sakin yol,Alternatif rota seçeneklerini gösterebilirim.
+traffic_prediction,çarşamba günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+weather_traffic,yağmurda trafik,Hava durumunun trafik etkisini analiz edebilirim.
+traffic_prediction,yağmurlu günde trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Beşiktaş çıkışı Şişli yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatihden Mecidiyeköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+travel_time,gidip gelme süresi,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Kartal Fatih güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepeden Şişliye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+best_departure_time,hangi saatte çıkayım,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,hafta sonu mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköyden Kadıköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+best_departure_time,ideal zaman,En iyi çıkış zamanını hesaplayabilirim.
+fuel_info,lpg istasyonu,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Kartal Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Levent Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kartal çıkışı Eminönü yolu,Size en uygun rotayı hesaplayabilirim.
+complaint,beğenmedim,Geri bildiriminiz için teşekkürler.
+route_inquiry,Maslak çıkışı Eminönü yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancı Kartal güzergahı,Size en uygun rotayı hesaplayabilirim.
+weather_traffic,sisli hava trafik,Hava durumunun trafik etkisini analiz edebilirim.
+route_inquiry,Fatih çıkışı Şişli yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancıden Leventye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+goodbye,dikkatli ol,Güvenli yolculuklar dilerim!
+traffic_prediction,pazar öğle yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+goodbye,iyi günler bot,Güvenli yolculuklar dilerim!
+traffic_prediction,çarşamba öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe öğle yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Şişli Maslak arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beşiktaş Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak Üsküdar güzergahı,Size en uygun rotayı hesaplayabilirim.
+goodbye,görüşmek üzere,Güvenli yolculuklar dilerim!
+route_inquiry,Beşiktaş çıkışı Kartal yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_status,kennedy caddesi trafik,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+route_inquiry,Şişli Maslak arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,minibüs rotası,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,Şişliden Kartalye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+goodbye,kendine iyi bak,Güvenli yolculuklar dilerim!
+route_inquiry,Maslak ile Bakırköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,minibüs rotası,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,Levent Üsküdar güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe günü sabah erken trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatih ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköyden Maslakye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatihden Bostancıye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+unclear,belirsiz,Daha açık ifade edebilir misiniz?
+route_inquiry,Kadıköy Üsküdar güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kartal çıkışı Kadıköy yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim çıkışı Beylikdüzü yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe akşam üstü trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepe Üsküdar güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzü Üsküdar güzergahı,Size en uygun rotayı hesaplayabilirim.
+best_departure_time,en iyi çıkış zamanı,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,hafta sonu günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazar günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak ile Taksim arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazar sabah erken durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Eminönü çıkışı Üsküdar yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli ile Taksim arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar ile Mecidiyeköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi akşam durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,salı sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatih ile Maltepe arasında rota,Size en uygun rotayı hesaplayabilirim.
+fuel_info,opet lokasyonu,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Şişli Kartal güzergahı,Size en uygun rotayı hesaplayabilirim.
+thanks,başarılısın,Güvenli sürüşler!
+goodbye,sonra görüşürüz,Güvenli yolculuklar dilerim!
+route_inquiry,Maltepe Üsküdar güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih ile Bostancı arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy ile Beylikdüzü arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar günü sabah trafik,Trafik tahmini için lokasyon belirtir misiniz?
+alternative_route,farklı rota seçeneği,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Taksim ile Bakırköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Bostancı güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+alternative_route,yan yollar,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Beşiktaşden Eminönüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,festival zamanı,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,pazartesi akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kartal ile Üsküdar arasında rota,Size en uygun rotayı hesaplayabilirim.
+alternative_route,trafik olmayan yol,Alternatif rota seçeneklerini gösterebilirim.
+traffic_prediction,pazartesi öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+goodbye,güle güle,Güvenli yolculuklar dilerim!
+traffic_prediction,cuma mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+weather_traffic,hava durumu etkisi,Hava durumunun trafik etkisini analiz edebilirim.
+traffic_prediction,cuma sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+goodbye,iyi akşamlar,Güvenli yolculuklar dilerim!
+traffic_prediction,pazartesi günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+parking_info,park edebileceğim yer,Park yeri bilgisi için lokasyon belirtir misiniz?
+route_inquiry,Kadıköy çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+weather_traffic,rüzgarlı hava,Hava durumunun trafik etkisini analiz edebilirim.
+traffic_prediction,salı günü sabah erken trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba günü sabah erken trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Şişli ile Mecidiyeköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba akşam üstü yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazar sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+goodbye,görüşürüz dostum,Güvenli yolculuklar dilerim!
+route_inquiry,Kadıköyden Beşiktaşa rota,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+alternative_route,alternatif güzergah,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Fatih Şişli güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli çıkışı Fatih yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancıden Maslakye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Şişli güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak ile Bostancı arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköy ile Bostancı arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih Eminönü arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi öğle yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bakırköy Kadıköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköyden Beşiktaşye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş Şişli arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli çıkışı Kartal yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar çıkışı Beylikdüzü yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,mesai saatlerinde yoğunluk,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Beşiktaşden Taksimye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönüden Fatihye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi akşam üstü trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,okullar açık mı,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,çarşamba akşam trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy çıkışı Bakırköy yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancı Maslak güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Anadolu yakasından Avrupa yakasına,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+travel_time,otobüs yolculuğu,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Kadıköy Bakırköy arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksim ile Mecidiyeköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı Mecidiyeköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe sabah erken yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazar akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+weather_traffic,buzlanma tehlikesi,Hava durumunun trafik etkisini analiz edebilirim.
+route_inquiry,Bostancı ile Maltepe arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,selamün aleyküm,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Levent Bakırköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak Levent güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_status,Maslak trafiği,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+traffic_prediction,hafta sonu akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköy Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi öğle yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kartal ile Levent arasında rota,Size en uygun rotayı hesaplayabilirim.
+unclear,anlamıyorum,Hangi konuda yardım istiyorsunuz?
+route_inquiry,Fatihden Beşiktaşye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_status,Beşiktaş durumu,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+route_inquiry,Bakırköy Levent güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü Eminönü arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,salı sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bakırköyden Fatihye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Leventden Şişliye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepe Mecidiyeköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi öğle trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzü çıkışı Beşiktaş yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazar akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_status,Beşiktaş durumu,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+greeting,selam robot,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Beylikdüzü Maltepe arası yol,Size en uygun rotayı hesaplayabilirim.
+goodbye,görüşürüz dostum,Güvenli yolculuklar dilerim!
+route_inquiry,Beylikdüzü Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Şişli Bakırköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepe çıkışı Kartal yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+goodbye,hoşça kal dostum,Güvenli yolculuklar dilerim!
+route_inquiry,Mecidiyeköy ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,selam kardeşim,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Kadıköy çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü çıkışı Fatih yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal ile Üsküdar arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,şehir içi rota,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,cuma öğle trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+best_departure_time,en uygun çıkış,En iyi çıkış zamanını hesaplayabilirim.
+route_inquiry,Maslak ile Maltepe arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköy çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzü Eminönü arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepe Fatih arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi günü öğle trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_status,Mecidiyeköy durumu,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+traffic_status,E5 üzerinde durum,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+route_inquiry,Maltepe ile Eminönü arasında rota,Size en uygun rotayı hesaplayabilirim.
+travel_time,taksi ile ne kadar,Süre hesaplaması için rotanızı belirtir misiniz?
+alternative_route,güvenli rota,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Maltepeden Kartalye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal çıkışı Kadıköy yolu,Size en uygun rotayı hesaplayabilirim.
+greeting,merhabalar,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,pazartesi akşam durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdar çıkışı Beşiktaş yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepe Bostancı güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş Taksim arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih çıkışı Maslak yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdarden Bakırköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi sabahı durum,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,pazartesi sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzü ile Levent arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdar Maltepe arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak Fatih güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu öğle yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepe ile Şişli arasında rota,Size en uygun rotayı hesaplayabilirim.
+alternative_route,hızlı alternatif,Alternatif rota seçeneklerini gösterebilirim.
+alternative_route,güvenli rota,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Maslakden Taksimye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+goodbye,güle güle,Güvenli yolculuklar dilerim!
+route_inquiry,Maslak Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar Bakırköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı günü sabah erken trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Şişli ile Beylikdüzü arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköy çıkışı Kartal yolu,Size en uygun rotayı hesaplayabilirim.
+help,ne yapabilirsin,"Trafik bilgileri, rota önerileri ve daha fazlası için buradayım."
+parking_info,kapalı otopark,Park yeri bilgisi için lokasyon belirtir misiniz?
+traffic_prediction,perşembe öğle yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,karlı havada durum,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Kartal ile Eminönü arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı günü öğle trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba günü öğle trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatih Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim Maslak arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak Levent arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent ile Beylikdüzü arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancı çıkışı Kadıköy yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu öğle trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı Maslak güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent ile Kadıköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+alternative_route,kestirme yol,Alternatif rota seçeneklerini gösterebilirim.
+traffic_prediction,çarşamba gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy Maslak arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzü çıkışı Kadıköy yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslakden Mecidiyeköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+goodbye,hoşça kal dostum,Güvenli yolculuklar dilerim!
+parking_info,kapalı otopark,Park yeri bilgisi için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy ile Beylikdüzü arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beşiktaşden Leventye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy Taksim güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak çıkışı Üsküdar yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar çıkışı Taksim yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi günü sabah trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+parking_info,açık park alanı,Park yeri bilgisi için lokasyon belirtir misiniz?
+traffic_prediction,cuma sabah erken yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,salı günü sabah erken trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Şişli Bakırköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzüden Kartalye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü Üsküdar arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdar Fatih arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar Fatih güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma akşam trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatih ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepeden Eminönüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar çıkışı Kartal yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe akşamı trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Fatihden Eminönüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü çıkışı Beylikdüzü yolu,Size en uygun rotayı hesaplayabilirim.
+unclear,ne diyorsun,Sorunuzu daha açık belirtir misiniz?
+fuel_info,akaryakıt istasyonu,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Maltepe çıkışı Üsküdar yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü çıkışı Fatih yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma günü sabah trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksim Şişli güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar ile Beylikdüzü arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beşiktaş ile Şişli arasında rota,Size en uygun rotayı hesaplayabilirim.
+goodbye,elveda,Güvenli yolculuklar dilerim!
+route_inquiry,Bostancı çıkışı Fatih yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kartal ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_status,TEM otoyolunda trafik,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+route_inquiry,Taksimden Beylikdüzüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih ile Taksim arasında rota,Size en uygun rotayı hesaplayabilirim.
+travel_time,şehir merkezine ne kadar,Süre hesaplaması için rotanızı belirtir misiniz?
+traffic_prediction,salı sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatih Sultan Mehmet köprüsü güzergahı,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,Kadıköy Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköyden Beylikdüzüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+fuel_info,yakın benzinlik,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+traffic_prediction,pazartesi akşam durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköy Taksim güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy çıkışı Kadıköy yolu,Size en uygun rotayı hesaplayabilirim.
+parking_info,park durumu,Park yeri bilgisi için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzüden Şişliye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma akşam trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazar gece geç durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzü Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+greeting,hey merhaba,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+travel_time,gidip gelme süresi,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Şişli ile Kadıköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+weather_traffic,buzlanma tehlikesi,Hava durumunun trafik etkisini analiz edebilirim.
+traffic_prediction,cumartesi mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatih ile Şişli arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Şişli çıkışı Eminönü yolu,Size en uygun rotayı hesaplayabilirim.
+alternative_route,farklı rota seçeneği,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Fatih çıkışı Taksim yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba akşam trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksim Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı Maltepe arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy ile Maslak arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Eminönü Mecidiyeköy arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi öğle trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslakden Şişliye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköy çıkışı Kartal yolu,Size en uygun rotayı hesaplayabilirim.
+goodbye,iyi geceler,Güvenli yolculuklar dilerim!
+route_inquiry,Mecidiyeköyden Fatihye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_status,kennedy caddesi trafik,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+best_departure_time,ne zaman yola çıkmalı,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,salı günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy Şişli arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişliden Maltepeye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköyden Üsküdara yol,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,Fatih Üsküdar güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü çıkışı Kartal yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Leventden Maltepeye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş Bostancı güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba sabah erken yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi akşam üstü yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+travel_time,Süre tahmini,Süre tahmini yapabilmem için hangi rotayı kullanacağınızı söyleyebilir misiniz?
+route_inquiry,Boğaziçi köprüsünden geçer miyim,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,Taksim ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+thanks,mükemmelsin,Çok teşekkürler!
+traffic_prediction,pazar gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba akşam üstü trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksim ile Bakırköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepe Bakırköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak Eminönü arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslakden Kartalye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar ile Levent arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar çıkışı Maslak yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim Üsküdar güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma akşam trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+help,ne yapabilirsin,"Trafik bilgileri, rota önerileri ve daha fazlası için buradayım."
+unclear,anlamıyorum,Hangi konuda yardım istiyorsunuz?
+route_inquiry,otobüs güzergahı,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,cuma sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Levent Maslak arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak Eminönü güzergahı,Size en uygun rotayı hesaplayabilirim.
+fuel_info,bp benzinlik,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Maslak Mecidiyeköy arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+fuel_info,yakın benzinlik,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Kartal Mecidiyeköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar çıkışı Maslak yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş çıkışı Maslak yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Leventden Maltepeye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+goodbye,dikkatli ol,Güvenli yolculuklar dilerim!
+route_inquiry,Taksimden Bostancıye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü çıkışı Levent yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaşden Bostancıye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköy Eminönü güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,salı akşam durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatih çıkışı Beylikdüzü yolu,Size en uygun rotayı hesaplayabilirim.
+help,yardım et,Size nasıl yardımcı olabilirim?
+traffic_prediction,perşembe gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksim Maltepe arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Şişliden Maslakye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdarden Kartalye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+alternative_route,güvenli rota,Alternatif rota seçeneklerini gösterebilirim.
+greeting,günaydın,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Eminönü Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak ile Maltepe arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköy ile Maltepe arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartalden Fatihye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar çıkışı Kadıköy yolu,Size en uygun rotayı hesaplayabilirim.
+weather_traffic,karlı havada durum,Hava durumunun trafik etkisini analiz edebilirim.
+traffic_prediction,pazar gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi sabah erken durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak Maltepe güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar Bakırköy arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazar mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköy Bakırköy arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi gece geç durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdar Şişli arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+travel_time,şehir merkezine ne kadar,Süre hesaplaması için rotanızı belirtir misiniz?
+traffic_prediction,salı gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,naber,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Beşiktaş Eminönü güzergahı,Size en uygun rotayı hesaplayabilirim.
+travel_time,havalimanına süre,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Bostancı Mecidiyeköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+alternative_route,ekonomik yol,Alternatif rota seçeneklerini gösterebilirim.
+greeting,günaydın bot,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,cumartesi günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_status,Boğaz köprüsü durumu,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+goodbye,güvenli sürüş,Güvenli yolculuklar dilerim!
+route_inquiry,Beylikdüzünden Şişliye nasıl giderim,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,Fatih Maslak güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzü ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı Bakırköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköy çıkışı Mecidiyeköy yolu,Size en uygun rotayı hesaplayabilirim.
+travel_time,otogar mesafesi,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Üsküdar ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar akşam trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+alternative_route,kestirme yol,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Maslak ile Bakırköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+travel_time,metro süresi,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Üsküdar çıkışı Mecidiyeköy yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal ile Levent arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksim Kadıköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli Fatih güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent ile Maltepe arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+parking_info,park yeri nerede,Park yeri bilgisi için lokasyon belirtir misiniz?
+weather_traffic,hava durumu etkisi,Hava durumunun trafik etkisini analiz edebilirim.
+traffic_prediction,hafta içi sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+help,özelliklerin neler,"Trafik tahmini, rota planlama, anlık durum kontrolü yapabilirim."
+route_inquiry,Mecidiyeköy Beşiktaş güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma akşam trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdar çıkışı Taksim yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi gece geç durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bakırköy Maslak arası yol,Size en uygun rotayı hesaplayabilirim.
+best_departure_time,en iyi çıkış zamanı,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,cumartesi günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,merhaba trafik botu,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,TEM mi E5 mi daha iyi,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,Fatih Kadıköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy çıkışı Maslak yolu,Size en uygun rotayı hesaplayabilirim.
+greeting,merhaba bot,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,pazar gece geç durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Eminönüden Şişliye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba sabah durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzü Fatih güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancı ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_status,çevre yolu durumu,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+route_inquiry,Beşiktaş çıkışı Beylikdüzü yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Fatih arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim Kadıköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü Maltepe arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih Bakırköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköy Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköy ile Bakırköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu akşam trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköyden Maltepeye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,salı akşam üstü trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,selam nasılsın,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Mecidiyeköy Üsküdar arası yol,Size en uygun rotayı hesaplayabilirim.
+goodbye,elveda,Güvenli yolculuklar dilerim!
+best_departure_time,optimal saat,En iyi çıkış zamanını hesaplayabilirim.
+route_inquiry,Beşiktaşden Mecidiyeköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kartal çıkışı Maslak yolu,Size en uygun rotayı hesaplayabilirim.
+goodbye,elveda arkadaşım,Güvenli yolculuklar dilerim!
+traffic_prediction,pazar günü sabah erken trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksimden Şişliye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköy çıkışı Maltepe yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepe ile Bakırköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksim Üsküdar güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslakden Fatihye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal Bakırköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköyden Maslakye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Maslak güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköy Bostancı arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköyden Leventye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+goodbye,iyi geceler,Güvenli yolculuklar dilerim!
+traffic_prediction,cuma gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+travel_time,bisikletle süre,Süre hesaplaması için rotanızı belirtir misiniz?
+traffic_prediction,çarşamba akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslak Kadıköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Kartal güzergahı,Size en uygun rotayı hesaplayabilirim.
+goodbye,hoşça kal bot,Güvenli yolculuklar dilerim!
+route_inquiry,Eminönü Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar günü sabah trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepe Bostancı güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,salı günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi günü akşam trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepe Bostancı arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişliden Maltepeye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaşden Eminönüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+parking_info,ücretsiz park,Park yeri bilgisi için lokasyon belirtir misiniz?
+route_inquiry,Şişli Kartal arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maslakden Bakırköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdar Levent güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancıden Eminönüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Boğaziçi köprüsünden geçer miyim,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,cuma mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma gece geç durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,selamün aleyküm,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Üsküdarden Kartalye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_status,FSM köprüsü trafiği,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+traffic_status,Mecidiyeköy durumu,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+traffic_prediction,hafta içi mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdarden Beşiktaşye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+travel_time,bisikletle süre,Süre hesaplaması için rotanızı belirtir misiniz?
+fuel_info,bp benzinlik,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Fatih Maslak güzergahı,Size en uygun rotayı hesaplayabilirim.
+fuel_info,motorin,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Mecidiyeköy çıkışı Fatih yolu,Size en uygun rotayı hesaplayabilirim.
+greeting,hello bot,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Beşiktaş ile Bakırköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba günü sabah erken trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköyden Beylikdüzüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal ile Bakırköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü ile Beylikdüzü arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beşiktaş çıkışı Mecidiyeköy yolu,Size en uygun rotayı hesaplayabilirim.
+fuel_info,motorin,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+goodbye,sonra görüşürüz,Güvenli yolculuklar dilerim!
+traffic_prediction,çarşamba gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Levent çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi akşam durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+goodbye,allaha ısmarladık,Güvenli yolculuklar dilerim!
+traffic_prediction,okul çıkışı saatlerinde,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,salı gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bakırköy ile Üsküdar arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü çıkışı Levent yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü çıkışı Fatih yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş Kartal arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Şişli Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal Bostancı arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü çıkışı Kadıköy yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi gece yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+fuel_info,yakın benzinlik,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Bostancı çıkışı Maltepe yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü çıkışı Fatih yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköy Levent arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepe Maslak güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancı Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu akşam üstü trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+weather_traffic,karlı havada durum,Hava durumunun trafik etkisini analiz edebilirim.
+goodbye,görüşürüz dostum,Güvenli yolculuklar dilerim!
+traffic_prediction,hafta sonu sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,otobüs güzergahı,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,Bakırköy çıkışı Beylikdüzü yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönüden Leventye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim ile Maltepe arasında rota,Size en uygun rotayı hesaplayabilirim.
+goodbye,kendine iyi bak,Güvenli yolculuklar dilerim!
+traffic_prediction,salı günü sabah erken trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi akşam trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepe çıkışı Kartal yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköyden Maltepeye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancı ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancı çıkışı Maltepe yolu,Size en uygun rotayı hesaplayabilirim.
+greeting,hoş bulduk,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,perşembe günü sabah trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beşiktaş çıkışı Üsküdar yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslakden Kartalye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköyden Maslakye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartalden Eminönüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim çıkışı Maslak yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksimden Maltepeye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Şişli çıkışı Kadıköy yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,selamlar canım,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,pazar akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazar sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepe ile Eminönü arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta sonu gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Sisli Maslak arası rota,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,pazartesi akşam üstü yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköyden Leventye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy Bostancı güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi akşam durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazar gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+goodbye,güvenli sürüş,Güvenli yolculuklar dilerim!
+route_inquiry,Eminönü Kadıköy arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi günü sabah erken trafik,Trafik tahmini için lokasyon belirtir misiniz?
+best_departure_time,trafik olmayan saat,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,cuma akşam trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazar öğle yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepe çıkışı Levent yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kadıköy Mecidiyeköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancı ile Beşiktaş arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Fatih çıkışı Bostancı yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancıden Taksimye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,maç günü trafik durumu,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Kadıköyden Eminönüye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş Beylikdüzü güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,hoş bulduk,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,çarşamba sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,salı gece geç trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+alternative_route,trafik olmayan yol,Alternatif rota seçeneklerini gösterebilirim.
+traffic_prediction,bayram günü trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Anadolu yakasından Avrupa yakasına,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,otobüs güzergahı,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,pazartesi gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+greeting,selamlar canım,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Maltepe çıkışı Taksim yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bostancı Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Bakırköy çıkışı Maslak yolu,Size en uygun rotayı hesaplayabilirim.
+best_departure_time,trafik olmayan saat,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,çarşamba akşam üstü yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+help,kullanım kılavuzu,Trafik soruları sorabilirsiniz.
+route_inquiry,Maslakden Beşiktaşye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar çıkışı Eminönü yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi öğle trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_status,FSM köprüsü trafiği,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+route_inquiry,Maltepe ile Kadıköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+alternative_route,hızlı alternatif,Alternatif rota seçeneklerini gösterebilirim.
+best_departure_time,ideal zaman,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,hafta sonu öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma günü sabah trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Üsküdarden Beşiktaşye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maslak çıkışı Mecidiyeköy yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Eminönü ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+greeting,selam nasılsın,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+route_inquiry,Taksimden Kadıköyye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+parking_info,valet park,Park yeri bilgisi için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi sabah erken yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzü Taksim güzergahı,Size en uygun rotayı hesaplayabilirim.
+fuel_info,lpg istasyonu,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+traffic_prediction,pazar mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,salı gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+goodbye,hoşça kal bot,Güvenli yolculuklar dilerim!
+traffic_prediction,perşembe sabah trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksim çıkışı Maslak yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,otobüs güzergahı,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,hafta içi mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+fuel_info,akaryakıt istasyonu,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+traffic_prediction,hafta sonu öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Şişli Kadıköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim ile Mecidiyeköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,minibüs rotası,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+traffic_prediction,cuma sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+parking_info,ücretli otopark,Park yeri bilgisi için lokasyon belirtir misiniz?
+traffic_prediction,hafta içi mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma kaçışı,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,çarşamba günü sabah erken trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kartal Bostancı arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+travel_time,havalimanına süre,Süre hesaplaması için rotanızı belirtir misiniz?
+traffic_prediction,hafta sonu gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,hafta sonu günü sabah trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,salı mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cumartesi öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,yağmurlu günde trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,pazar mesai saati yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bostancıden Üsküdarye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+fuel_info,benzin fiyatı,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+traffic_prediction,cumartesi günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi gece trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+thanks,süpersin,Teşekkürler! Güvenli yolculuklar.
+route_inquiry,Üsküdar çıkışı Beylikdüzü yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba mesai saati trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,pazartesi öğle durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköy ile Maltepe arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma gece durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beşiktaş Şişli arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,mesai saatlerinde yoğunluk,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,perşembe gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Şişli çıkışı Beylikdüzü yolu,Size en uygun rotayı hesaplayabilirim.
+fuel_info,akaryakıt istasyonu,Yakıt istasyonu bilgisi için bölge belirtir misiniz?
+route_inquiry,Maltepe ile Eminönü arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü ile Şişli arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,şehir içi rota,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,Beşiktaşden Fatihye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Bostancı arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar Beylikdüzü arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Boğaziçi köprüsünden geçer miyim,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
+route_inquiry,Şişli çıkışı Eminönü yolu,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi akşam üstü durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Fatih ile Kartal arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzüden Taksimye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,okullar açık mı,Trafik tahmini için tarih ve saati belirtir misiniz?
+traffic_prediction,pazartesi günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköy Fatih güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal ile Taksim arasında rota,Size en uygun rotayı hesaplayabilirim.
+greeting,merhaba asistan,Merhaba! Size trafik bilgileri konusunda nasıl yardımcı olabilirim?
+traffic_prediction,pazar günü mesai saati trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Mecidiyeköy ile Kadıköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+travel_time,gidip gelme süresi,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Üsküdarden Beşiktaşye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy ile Üsküdar arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköy Eminönü arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü çıkışı Kadıköy yolu,Size en uygun rotayı hesaplayabilirim.
+alternative_route,dolama yolu,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Taksim çıkışı Şişli yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Kartal çıkışı Levent yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent Mecidiyeköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi günü öğle trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Bakırköy Taksim güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim Mecidiyeköy arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Levent çıkışı Şişli yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü Üsküdar güzergahı,Size en uygun rotayı hesaplayabilirim.
+travel_time,yürüyerek kaç dakika,Süre hesaplaması için rotanızı belirtir misiniz?
+route_inquiry,Eminönüden Leventye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,maç günü trafik durumu,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Mecidiyeköy Levent güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı sabah erken trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beşiktaşden Şişliye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazartesi akşam üstü trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,perşembe günü sabah erken trafik,Trafik tahmini için lokasyon belirtir misiniz?
+unclear,kafam karıştı,Sorunuzu netleştirebilir misiniz?
+route_inquiry,Kadıköy Levent güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma namazı trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+parking_info,açık park alanı,Park yeri bilgisi için lokasyon belirtir misiniz?
+route_inquiry,Maltepe ile Levent arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,hafta içi günü öğle trafik,Trafik tahmini için lokasyon belirtir misiniz?
+weather_traffic,aşırı sıcakta trafik,Hava durumunun trafik etkisini analiz edebilirim.
+route_inquiry,Levent Taksim güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cumartesi öğle yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Beylikdüzü Mecidiyeköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kadıköy Kartal güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Maltepe ile Bostancı arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar mesai saati durum nasıl,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Maltepe Beylikdüzü arası yol,Size en uygun rotayı hesaplayabilirim.
+goodbye,iyi günler bot,Güvenli yolculuklar dilerim!
+goodbye,iyi akşamlar,Güvenli yolculuklar dilerim!
+route_inquiry,Fatih Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beşiktaş ile Bakırköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Taksim Beşiktaş arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar akşam yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+best_departure_time,boş saatler,En iyi çıkış zamanını hesaplayabilirim.
+traffic_prediction,çarşamba günü sabah erken trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Kartal Bakırköy arası yol,Size en uygun rotayı hesaplayabilirim.
+traffic_status,Şişli trafiği,Hangi güzergahın durumunu kontrol etmek istiyorsunuz?
+route_inquiry,Beylikdüzü çıkışı Bakırköy yolu,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Üsküdar Bostancı güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,perşembe gece geç yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Taksim ile Kadıköy arasında rota,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,çarşamba sabah yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Şişliden Beşiktaşye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,pazar akşam üstü yoğunluk,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,cuma günü gece geç trafik,Trafik tahmini için lokasyon belirtir misiniz?
+goodbye,elveda,Güvenli yolculuklar dilerim!
+unclear,kafam karıştı,Sorunuzu netleştirebilir misiniz?
+route_inquiry,Levent Bostancı güzergahı,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Mecidiyeköyden Maltepeye nasıl giderim,Size en uygun rotayı hesaplayabilirim.
+route_inquiry,Beylikdüzü Maslak güzergahı,Size en uygun rotayı hesaplayabilirim.
+parking_info,ücretli otopark,Park yeri bilgisi için lokasyon belirtir misiniz?
+traffic_prediction,cuma namazı trafik,Trafik tahmini için tarih ve saati belirtir misiniz?
+route_inquiry,Kartal Kadıköy güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,salı günü gece trafik,Trafik tahmini için lokasyon belirtir misiniz?
+alternative_route,dolama yolu,Alternatif rota seçeneklerini gösterebilirim.
+route_inquiry,Beşiktaş Şişli güzergahı,Size en uygun rotayı hesaplayabilirim.
+traffic_prediction,cuma akşam trafik durumu,Trafik tahmini için lokasyon belirtir misiniz?
+traffic_prediction,çarşamba günü akşam üstü trafik,Trafik tahmini için lokasyon belirtir misiniz?
+route_inquiry,Avrupa yakasından Anadolu yakasına,Size en uygun rotayı hesaplayabilirim. Detayları belirtir misiniz?
